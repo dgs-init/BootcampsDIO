@@ -1,0 +1,32 @@
+Diretorios
+/publico
+/adm
+/ven
+/sec
+
+grp
+GRP_ADM
+GRP_VEN
+GRP_SEC
+
+
+user
+carlos
+maria
+joao
+
+debora
+sebastiana
+roberto
+
+josefina
+amanda
+rogerio
+
+excluir diretorios  arquivos e usuarios criados anteriormente
+todo provisionamento deve ser feito em um arquivo do tipo bash script
+o dono de toodso os direitorios criados sera o usuario root 
+todos os usuario terao permissao total do diretorio publico
+os usuarios de cada grupo terao permissao total dentro de seu respectivo diretorio
+os usuarios nao poderao ter permissao de leitrua , escrita e execuçao em diretorios de departamentos quelees nao pertencem
+subir arquivo de script criado para a sua conta no github
